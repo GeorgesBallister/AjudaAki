@@ -10,8 +10,6 @@ Além disso, a plataforma de prestadores de serviços também desempenha um pape
 
 Ao facilitar o acesso a uma ampla gama de serviços e ao promover interações sociais positivas, uma plataforma de prestadores de serviços desempenha um papel crucial na vida das pessoas. Ela torna possível a realização de tarefas e projetos de forma mais eficiente e econômica, além de cultivar um senso de comunidade e colaboração. Em um mundo onde a tecnologia desempenha um papel cada vez mais central, essas plataformas são uma resposta inovadora às necessidades monetárias e sociais da sociedade contemporânea.
 
-## Objetivo
-
 #### Tecnologias utilizadas
 
 <div style="display: inline_block">
