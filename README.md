@@ -1,6 +1,6 @@
 # AjudaAki
 
-![Logo do projeto](https://placeholder.com/150)
+![Logo do projeto](./images/AjudaAki.png)
 
 Nos tempos modernos, a busca por serviços confiáveis e acessíveis é uma necessidade constante. Nesse contexto, uma plataforma de prestadores de serviços surge como uma solução promissora, visando conectar pessoas que oferecem habilidades e conhecimentos específicos aos que precisam desses serviços.
 
