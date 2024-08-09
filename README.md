@@ -22,19 +22,3 @@ Ao facilitar o acesso a uma ampla gama de serviços e ao promover interações s
 
 > ##### Ferramentas de Prototipação e Construção de Fluxos
 > <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="figma" width="40" height="30"/>  
-
-## Integrantes
-
-|Nome|GitHub|LinkedIn|
-|---|---|---|
-|Geovanna Gizella Oliveira|[GeovannaOliveir4](https://github.com/GeovannaOliveir4)|[LinkedIn](https://www.linkedin.com/in/geovanna-oliveira-662524230/)|
-|Apolo Nicolas|[playapollonickolas](https://github.com/playapollonickolas)|[LinkedIn](https://www.linkedin.com/in/apolo-nicolas-55b747216/overlay/about-this-profile/)|
-
-## Páginas, Responsáveis e Progresso
-
-|Página | Responsável | Status| Descrição |
-|---| ---| ---| ---|
-|**Backend**|Apolo Nicolas|`Em andamento`|Desenvolvimento do backend da plataforma AjudaAki|
-|**Frontend**|Geovanna Gizella Oliveira |`Em andamento`|Desenvolvimento do frontend da plataforma AjudaAki|
-|**Documentação**|Todos|`Concluido`|Elaboração e estruturação da documentação do projeto|
-|**Prototipação**|Geovanna Gizella Oliveira e Apolo Nicolas|`Em andamento`|Desenvolvimento do protótipo de alta fidelidade da plataforma|
